@@ -1,4 +1,7 @@
-# Amazon_Sales_Report_Analysis_
-Amazon Sales Report
+<h1 align="center" id="title">Amazon Sales Report</h1>
 
-The aim of "Amazon Sales Report" project is   analyzing and visualizing sales data from Amazon. In this project I have used Python and various data analysis libraries to explore and present insights from the sales data. Visual Studio Code (VSCode) was used as the development environment for this project.
+<p id="description">In this project you used Jupyter Notebook and Python to clean and analyze Amazon sales data. The main steps involved were: 1.Data Cleaning 2.Data Analysis 3.Visualization</p>
+
+<h2>🚀 Demo</h2>
+
+[https://github.com/pawan-ingle/Amazon\_Sales\_Report\_Analysis\_](https://github.com/pawan-ingle/Amazon_Sales_Report_Analysis_)
